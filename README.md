@@ -1,6 +1,6 @@
 # Kernel-Smith
 
-**Kernel-Smith** is a GPU kernel generation system developed by the Shanghai Artificial Intelligence Laboratory and MetaX. The technical report is available [here](Kernel-Smith.pdf).
+**Kernel-Smith** is a GPU kernel generation system developed by the Shanghai Artificial Intelligence Laboratory and MetaX. The technical report is available [here](https://arxiv.org/pdf/2603.28342).
 
 > We do not currently plan to release the Kernel-Smith model weights or agent code. For now, this repository will focus on sharing generated kernels, benchmarks, and related documentation. Stay tuned.
 
